@@ -11,7 +11,7 @@ const options = {
 module.exports = {
   options,
   host: {
-    BASE_URL: 'domain.xyz' 
+    BASE_URL: 'agungdev.us.kg' 
 /*
 Example: domain.com
 don't use https, just the domain name!
